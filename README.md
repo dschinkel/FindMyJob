@@ -1,5 +1,5 @@
 # FindMyJob
-AI based job search.  Find a job with like minded folks.
+AI based job search.  Find a job with like minded folks. (STARTING SOON!)
 
 ### Stack
 `ReactJS`,`**Kotlin`, `Python`
